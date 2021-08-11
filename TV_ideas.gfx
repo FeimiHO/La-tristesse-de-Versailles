@@ -1,0 +1,23 @@
+spriteTypes = {
+
+
+	### IRE ###
+	spriteType = {
+		name = "ire_defence"
+		texturefile = "gfx/interface/ideas/idea_ire_defence.png"
+	}
+	### ENG ###
+	spriteType = {
+		name = "GFX_idea_eng_crown"
+		texturefile = "gfx/interface/ideas/idea_eng_crown.png"
+	}
+	spriteType = {
+		name = "eng_royal_navy_1"
+		texturefile = "gfx/interface/ideas/idea_eng_royal_navy_1.png"
+	}
+	spriteType = {
+		name = "eng_royal_navy_2"
+		texturefile = "gfx/interface/ideas/idea_eng_royal_navy_2.png"
+	}
+
+}
